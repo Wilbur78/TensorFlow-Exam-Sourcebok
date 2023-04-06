@@ -1,4 +1,4 @@
-# TensorFlow-Exam-Sourcebok
+# TensorFlow-Exam-Sourceb0ok
 A compilation of important concepts, processes, and code snippets assembled while preparing to take the TensorFlow Professional Developer Exam
 
 The Jupyter Notebook included in this repository is a compilation of notes about different terms, topics, processes, and techniques related to the skills and knowledge that are tested on in the TensorFlow Developer Exam. It contains text explanations, pseudo-code, and specific code snippets throughout the file depending on the context.
